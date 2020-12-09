@@ -1,0 +1,5 @@
+ErrorDocument 404 http://localhost/SIKAS/error.php
+<IfModule mod_rewrite.c>
+    	RewriteEngine On
+	Options All -Indexes
+</IfModule>
